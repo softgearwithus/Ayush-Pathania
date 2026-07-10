@@ -1,4 +1,4 @@
----
+
 <!-- Banner: Typing SVG intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2800&pause=1200&vCenter=true&multiline=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Pathania.;Founder+%7C+Full-stack+builder+%7C+Closer.;White%2FBlack+vibes+only." alt="Typing SVG" />
