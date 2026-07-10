@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2400&pause=900&color=000000¢er=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ayush+Pathania;Founder%2C+Builder%2C+B2B+Closer.;Minimalist+but+never+subtle." alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/He%2FHim-black?style=flat-square" alt="Pronouns"> 
-  <img src="https://img.shields.io/badge/Mohali%2C%20India-black?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/He%2FHim-black?style=flat-square" alt="Pronouns"> 
+  <img src="https://img.shields.io/badge/Mohali%2C%20India-black?style=flat-square" alt="Location"> 
   <img src="https://komarev.com/ghpvc/?username=softgearwithus&style=flat-square&color=black" alt="Profile views">
 </p>
 ---
@@ -14,7 +14,7 @@
 **2026:** Still haven't built the next unicorn—but came close enough to catch a horn or two.
 ---
 # 🤹‍♂️ What I'm Building Right Now
-- **Emble:** "The Smartest Way to Interview Engineers." Think LeetCode, but fun and fiercer.
+- **Emble:** The Smartest Way to Interview Engineers. Think LeetCode, but fun and fiercer.
 - **Softgear:** Digital solutions so smooth they’ve been mistaken for butter.
 - **Ongoo & Brandeora:** Platforms in stealth—not even my mother knows what they do (yet).
 ---
