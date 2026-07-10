@@ -47,4 +47,3 @@ Checkout my [project repo](https://github.com/softgearwithus?tab=repositories) â
 Build. Launch. Fail. Iterate.<br>
 If all else fails: coffee, memes, and back to the code editor.
 </sup></p>
----
